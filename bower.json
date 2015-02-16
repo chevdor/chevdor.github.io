@@ -1,0 +1,21 @@
+{
+  "name": "chevdor.github.io",
+  "version": "0.0.1",
+  "homepage": "https://chevdor.github.io",
+  "authors": [
+    "Wilfried Kopp <chevdor@gmail.com>"
+  ],
+  "description": "Chevdor github page",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer-github-card": "~0.0.1"
+  }
+}
