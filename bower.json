@@ -16,6 +16,7 @@
     "tests"
   ],
   "dependencies": {
-    "polymer-github-card": "~0.0.1"
+    "polymer-github-card": "~0.0.1",
+    "polymer": "~0.5.4"
   }
 }
